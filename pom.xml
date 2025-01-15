@@ -11,10 +11,9 @@
     <modules>
         <module>jdk-updates</module>
         <module>types</module>
-        <module>simple-quartz</module>
         <module>concurrency</module>
-        <module>quartz-demo</module>
-        <module>ai-demo</module>
+        <module>scheduler</module>
+        <module>ai-lab</module>
     </modules>
 
     <properties>

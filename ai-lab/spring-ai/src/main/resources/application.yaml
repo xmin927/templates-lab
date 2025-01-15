@@ -1,0 +1,12 @@
+server:
+  port: 8000
+  address: 0.0.0.0
+
+spring:
+  ai:
+    moonshot:
+      api-key: ${MOONSHOT_API_KEY}
+      chat:
+        options:
+          model: moonshot-v1-8k
+          temperature: 0.7
